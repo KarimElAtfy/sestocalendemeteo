@@ -1,11 +1,11 @@
 {
- "aggiornato": "2026-09-21T07:59:49.363Z",
- "offsetSito": -0.48,
+ "aggiornato": "2026-09-21T11:03:43.994Z",
+ "offsetSito": -0.49,
  "fascia": {
-  "fattore": 1.27,
-  "coperturaPrima": 0.729,
-  "coperturaDopo": 0.831,
-  "nProva": 177
+  "fattore": 1.29,
+  "coperturaPrima": 0.727,
+  "coperturaDopo": 0.83,
+  "nProva": 176
  },
  "zona": {
   "ore": 115,
@@ -24,22 +24,22 @@
  },
  "modelli": {
   "ecmwf_ifs025": {
-   "mae24": 1.3,
+   "mae24": 1.31,
    "mae48": 1.28,
    "mae72": 1.42,
    "pod": 0.55,
    "far": 0.878,
    "scartoMax": -1.06,
-   "campioni": 1512
+   "campioni": 1503
   },
   "ecmwf_aifs025_single": {
    "mae24": 1.39,
-   "mae48": 1.44,
-   "mae72": 1.48,
+   "mae48": 1.43,
+   "mae72": 1.47,
    "pod": 1,
    "far": 0.833,
-   "scartoMax": -1.27,
-   "campioni": 1512
+   "scartoMax": -1.28,
+   "campioni": 1503
   },
   "icon_seamless": {
    "mae24": 1.16,
@@ -47,8 +47,8 @@
    "mae72": 1.36,
    "pod": 0.2,
    "far": 0.81,
-   "scartoMax": -1.08,
-   "campioni": 1512
+   "scartoMax": -1.09,
+   "campioni": 1503
   },
   "icon_eu": {
    "mae24": 1.3,
@@ -56,8 +56,8 @@
    "mae72": 1.36,
    "pod": 0.45,
    "far": 0.82,
-   "scartoMax": -1.5,
-   "campioni": 1512
+   "scartoMax": -1.51,
+   "campioni": 1503
   },
   "icon_d2": {
    "mae24": 1.16,
@@ -65,8 +65,8 @@
    "mae72": null,
    "pod": 0.2,
    "far": 0.81,
-   "scartoMax": -1.08,
-   "campioni": 504
+   "scartoMax": -1.09,
+   "campioni": 501
   },
   "italia_meteo_arpae_icon_2i": {
    "mae24": 1.15,
@@ -74,44 +74,44 @@
    "mae72": null,
    "pod": 0.15,
    "far": 0.824,
-   "scartoMax": -1.41,
-   "campioni": 1008
+   "scartoMax": -1.42,
+   "campioni": 1002
   },
   "gfs_seamless": {
-   "mae24": 1.56,
+   "mae24": 1.57,
    "mae48": 1.54,
    "mae72": 1.49,
    "pod": 0.5,
    "far": 0.885,
-   "scartoMax": -0.07,
-   "campioni": 1512
+   "scartoMax": -0.08,
+   "campioni": 1503
   },
   "gfs_global": {
-   "mae24": 1.56,
+   "mae24": 1.57,
    "mae48": 1.54,
    "mae72": 1.49,
    "pod": 0.5,
    "far": 0.885,
-   "scartoMax": -0.07,
-   "campioni": 1512
+   "scartoMax": -0.08,
+   "campioni": 1503
   },
   "meteofrance_seamless": {
    "mae24": 1.17,
-   "mae48": 1.38,
+   "mae48": 1.37,
    "mae72": 1.38,
    "pod": 0.2,
    "far": 0.818,
-   "scartoMax": -0.9,
-   "campioni": 1512
+   "scartoMax": -0.91,
+   "campioni": 1503
   },
   "arpege_europe": {
-   "mae24": 1.41,
-   "mae48": 1.38,
+   "mae24": 1.4,
+   "mae48": 1.37,
    "mae72": 1.38,
    "pod": 0.55,
    "far": 0.849,
-   "scartoMax": -1.43,
-   "campioni": 1512
+   "scartoMax": -1.44,
+   "campioni": 1503
   },
   "arome_france_hd": {
    "mae24": 1.17,
@@ -119,53 +119,53 @@
    "mae72": null,
    "pod": 0.2,
    "far": 0.818,
-   "scartoMax": -0.9,
-   "campioni": 504
+   "scartoMax": -0.91,
+   "campioni": 501
   },
   "ukmo_seamless": {
-   "mae24": 2.34,
+   "mae24": 2.35,
    "mae48": 1.63,
    "mae72": 1.76,
    "pod": 0.15,
    "far": 0.85,
-   "scartoMax": -1.79,
-   "campioni": 1512
+   "scartoMax": -1.81,
+   "campioni": 1503
   },
   "jma_seamless": {
-   "mae24": 1.29,
-   "mae48": 1.46,
-   "mae72": 1.4,
+   "mae24": 1.27,
+   "mae48": 1.44,
+   "mae72": 1.38,
    "pod": 1,
    "far": 0.815,
-   "scartoMax": -0.55,
-   "campioni": 1512
+   "scartoMax": -0.58,
+   "campioni": 1503
   },
   "knmi_seamless": {
-   "mae24": 1.25,
-   "mae48": 1.44,
-   "mae72": 1.58,
+   "mae24": 1.26,
+   "mae48": 1.43,
+   "mae72": 1.57,
    "pod": 0.25,
    "far": 0.773,
-   "scartoMax": -0.59,
-   "campioni": 1512
+   "scartoMax": -0.6,
+   "campioni": 1503
   },
   "dmi_seamless": {
-   "mae24": 1.36,
-   "mae48": 1.44,
-   "mae72": 1.58,
+   "mae24": 1.37,
+   "mae48": 1.43,
+   "mae72": 1.57,
    "pod": 0.25,
    "far": 0.706,
-   "scartoMax": -0.79,
-   "campioni": 1512
+   "scartoMax": -0.8,
+   "campioni": 1503
   },
   "metno_seamless": {
    "mae24": 1.43,
-   "mae48": 1.44,
-   "mae72": 1.58,
+   "mae48": 1.43,
+   "mae72": 1.57,
    "pod": 0.3,
    "far": 0.897,
-   "scartoMax": -0.98,
-   "campioni": 1512
+   "scartoMax": -0.99,
+   "campioni": 1503
   },
   "gem_seamless": {
    "mae24": 1.21,
@@ -173,17 +173,17 @@
    "mae72": 1.29,
    "pod": 0.7,
    "far": 0.806,
-   "scartoMax": -1.09,
-   "campioni": 1512
+   "scartoMax": -1.07,
+   "campioni": 1503
   },
   "cma_grapes_global": {
-   "mae24": 2.24,
-   "mae48": 2.26,
+   "mae24": 2.25,
+   "mae48": 2.27,
    "mae72": 2.37,
    "pod": 0.8,
    "far": 0.778,
    "scartoMax": -1.03,
-   "campioni": 1512
+   "campioni": 1503
   }
  }
 }
