@@ -13,14 +13,48 @@
    "mmVero": 0.1,
    "piovuto": 0,
    "fiducia": "alta"
+  },
+  {
+   "emessa": "2026-09-20",
+   "giorno": "2026-09-22",
+   "lead": 2,
+   "tmaxPrev": 25.4,
+   "tmaxVero": 25.5,
+   "tminPrev": 15.4,
+   "tminVero": 13.8,
+   "probPrev": 0,
+   "mmPrev": 0,
+   "mmVero": 0,
+   "piovuto": 0,
+   "fiducia": "alta"
+  },
+  {
+   "emessa": "2026-09-21",
+   "giorno": "2026-09-22",
+   "lead": 1,
+   "tmaxPrev": 25.6,
+   "tmaxVero": 25.5,
+   "tminPrev": 15.6,
+   "tminVero": 13.8,
+   "probPrev": 0,
+   "mmPrev": 0.2,
+   "mmVero": 0,
+   "piovuto": 0,
+   "fiducia": "alta"
   }
  ],
- "aggiornato": "2026-09-22T10:17:27.688Z",
+ "aggiornato": "2026-09-23T07:47:58.908Z",
  "riassunto": {
   "1": {
+   "giorni": 2,
+   "erroreMassima": 0.25,
+   "scartoMassima": -0.15,
+   "brierPioggia": 0
+  },
+  "2": {
    "giorni": 1,
-   "erroreMassima": 0.4,
-   "scartoMassima": -0.4,
+   "erroreMassima": 0.1,
+   "scartoMassima": -0.1,
    "brierPioggia": 0
   }
  }

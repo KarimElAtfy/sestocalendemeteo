@@ -1,11 +1,11 @@
 {
- "aggiornato": "2026-09-22T10:17:27.646Z",
- "offsetSito": -0.5,
+ "aggiornato": "2026-09-23T07:47:58.868Z",
+ "offsetSito": -0.49,
  "fascia": {
-  "fattore": 1.35,
-  "coperturaPrima": 0.71,
-  "coperturaDopo": 0.813,
-  "nProva": 176
+  "fattore": 1.38,
+  "coperturaPrima": 0.723,
+  "coperturaDopo": 0.831,
+  "nProva": 177
  },
  "zona": {
   "ore": 115,
@@ -25,39 +25,39 @@
  "modelli": {
   "ecmwf_ifs025": {
    "mae24": 1.31,
-   "mae48": 1.28,
-   "mae72": 1.44,
+   "mae48": 1.27,
+   "mae72": 1.42,
    "pod": 0.55,
-   "far": 0.878,
-   "scartoMax": -1.07,
-   "campioni": 1506
+   "far": 0.869,
+   "scartoMax": -1.06,
+   "campioni": 1512
   },
   "ecmwf_aifs025_single": {
-   "mae24": 1.41,
-   "mae48": 1.45,
-   "mae72": 1.5,
+   "mae24": 1.43,
+   "mae48": 1.46,
+   "mae72": 1.51,
    "pod": 1,
    "far": 0.833,
-   "scartoMax": -1.33,
-   "campioni": 1506
+   "scartoMax": -1.27,
+   "campioni": 1512
   },
   "icon_seamless": {
    "mae24": 1.16,
    "mae48": 1.32,
-   "mae72": 1.37,
+   "mae72": 1.34,
    "pod": 0.2,
    "far": 0.81,
-   "scartoMax": -1.17,
-   "campioni": 1506
+   "scartoMax": -1.09,
+   "campioni": 1512
   },
   "icon_eu": {
-   "mae24": 1.31,
+   "mae24": 1.3,
    "mae48": 1.32,
-   "mae72": 1.37,
+   "mae72": 1.34,
    "pod": 0.45,
    "far": 0.82,
-   "scartoMax": -1.56,
-   "campioni": 1506
+   "scartoMax": -1.52,
+   "campioni": 1512
   },
   "icon_d2": {
    "mae24": 1.16,
@@ -65,8 +65,8 @@
    "mae72": null,
    "pod": 0.2,
    "far": 0.81,
-   "scartoMax": -1.17,
-   "campioni": 502
+   "scartoMax": -1.09,
+   "campioni": 504
   },
   "italia_meteo_arpae_icon_2i": {
    "mae24": 1.12,
@@ -74,116 +74,116 @@
    "mae72": null,
    "pod": 0.15,
    "far": 0.824,
-   "scartoMax": -1.47,
-   "campioni": 1004
+   "scartoMax": -1.4,
+   "campioni": 1008
   },
   "gfs_seamless": {
-   "mae24": 1.53,
-   "mae48": 1.51,
-   "mae72": 1.48,
+   "mae24": 1.46,
+   "mae48": 1.46,
+   "mae72": 1.43,
    "pod": 0.5,
-   "far": 0.875,
-   "scartoMax": -0.09,
-   "campioni": 1506
+   "far": 0.873,
+   "scartoMax": -0.11,
+   "campioni": 1512
   },
   "gfs_global": {
-   "mae24": 1.53,
-   "mae48": 1.51,
-   "mae72": 1.48,
+   "mae24": 1.46,
+   "mae48": 1.46,
+   "mae72": 1.43,
    "pod": 0.5,
-   "far": 0.875,
-   "scartoMax": -0.09,
-   "campioni": 1506
+   "far": 0.873,
+   "scartoMax": -0.11,
+   "campioni": 1512
   },
   "meteofrance_seamless": {
-   "mae24": 1.15,
+   "mae24": 1.12,
    "mae48": 1.41,
-   "mae72": 1.43,
+   "mae72": 1.42,
    "pod": 0.2,
    "far": 0.818,
-   "scartoMax": -1,
-   "campioni": 1506
+   "scartoMax": -0.97,
+   "campioni": 1512
   },
   "arpege_europe": {
-   "mae24": 1.44,
+   "mae24": 1.43,
    "mae48": 1.41,
-   "mae72": 1.43,
+   "mae72": 1.42,
    "pod": 0.55,
    "far": 0.849,
-   "scartoMax": -1.53,
-   "campioni": 1506
+   "scartoMax": -1.47,
+   "campioni": 1512
   },
   "arome_france_hd": {
-   "mae24": 1.15,
+   "mae24": 1.12,
    "mae48": null,
    "mae72": null,
    "pod": 0.2,
    "far": 0.818,
-   "scartoMax": -1,
-   "campioni": 502
+   "scartoMax": -0.97,
+   "campioni": 504
   },
   "ukmo_seamless": {
-   "mae24": 2.35,
-   "mae48": 1.67,
+   "mae24": 2.33,
+   "mae48": 1.66,
    "mae72": 1.82,
    "pod": 0.15,
    "far": 0.85,
-   "scartoMax": -1.82,
-   "campioni": 1506
+   "scartoMax": -1.81,
+   "campioni": 1512
   },
   "jma_seamless": {
-   "mae24": 1.25,
+   "mae24": 1.27,
    "mae48": 1.4,
    "mae72": 1.37,
    "pod": 1,
-   "far": 0.815,
-   "scartoMax": -0.71,
-   "campioni": 1506
+   "far": 0.81,
+   "scartoMax": -0.63,
+   "campioni": 1512
   },
   "knmi_seamless": {
-   "mae24": 1.26,
-   "mae48": 1.45,
-   "mae72": 1.6,
+   "mae24": 1.22,
+   "mae48": 1.43,
+   "mae72": 1.57,
    "pod": 0.25,
    "far": 0.773,
-   "scartoMax": -0.66,
-   "campioni": 1506
+   "scartoMax": -0.59,
+   "campioni": 1512
   },
   "dmi_seamless": {
-   "mae24": 1.38,
-   "mae48": 1.45,
-   "mae72": 1.6,
+   "mae24": 1.35,
+   "mae48": 1.43,
+   "mae72": 1.57,
    "pod": 0.25,
    "far": 0.706,
-   "scartoMax": -0.84,
-   "campioni": 1506
+   "scartoMax": -0.78,
+   "campioni": 1512
   },
   "metno_seamless": {
-   "mae24": 1.46,
-   "mae48": 1.45,
-   "mae72": 1.6,
+   "mae24": 1.45,
+   "mae48": 1.43,
+   "mae72": 1.57,
    "pod": 0.3,
-   "far": 0.897,
-   "scartoMax": -1.03,
-   "campioni": 1506
+   "far": 0.88,
+   "scartoMax": -1.01,
+   "campioni": 1512
   },
   "gem_seamless": {
-   "mae24": 1.19,
-   "mae48": 1.27,
+   "mae24": 1.13,
+   "mae48": 1.26,
    "mae72": 1.32,
    "pod": 0.7,
-   "far": 0.811,
-   "scartoMax": -0.87,
-   "campioni": 1506
+   "far": 0.806,
+   "scartoMax": -1.01,
+   "campioni": 1512
   },
   "cma_grapes_global": {
-   "mae24": 2.23,
-   "mae48": 2.22,
-   "mae72": 2.31,
+   "mae24": 2.29,
+   "mae48": 2.24,
+   "mae72": 2.3,
    "pod": 0.8,
    "far": 0.778,
-   "scartoMax": -1.07,
-   "campioni": 1506
+   "scartoMax": -1.05,
+   "campioni": 1512
   }
  }
 }
