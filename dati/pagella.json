@@ -1,11 +1,11 @@
 {
- "aggiornato": "2026-09-25T07:53:01.650Z",
+ "aggiornato": "2026-09-25T10:31:38.882Z",
  "offsetSito": -0.5,
  "fascia": {
-  "fattore": 1.47,
-  "coperturaPrima": 0.701,
-  "coperturaDopo": 0.876,
-  "nProva": 177
+  "fattore": 1.48,
+  "coperturaPrima": 0.699,
+  "coperturaDopo": 0.881,
+  "nProva": 176
  },
  "zona": {
   "ore": 115,
@@ -26,38 +26,38 @@
   "ecmwf_ifs025": {
    "mae24": 1.3,
    "mae48": 1.26,
-   "mae72": 1.42,
+   "mae72": 1.43,
    "pod": 0.55,
    "far": 0.864,
-   "scartoMax": -1.09,
-   "campioni": 1512
+   "scartoMax": -1.08,
+   "campioni": 1506
   },
   "ecmwf_aifs025_single": {
-   "mae24": 1.43,
+   "mae24": 1.42,
    "mae48": 1.45,
    "mae72": 1.49,
    "pod": 1,
    "far": 0.833,
-   "scartoMax": -1.27,
-   "campioni": 1512
+   "scartoMax": -1.28,
+   "campioni": 1506
   },
   "icon_seamless": {
    "mae24": 1.2,
    "mae48": 1.31,
-   "mae72": 1.33,
+   "mae72": 1.34,
    "pod": 0.2,
    "far": 0.81,
    "scartoMax": -1.02,
-   "campioni": 1512
+   "campioni": 1506
   },
   "icon_eu": {
-   "mae24": 1.29,
+   "mae24": 1.3,
    "mae48": 1.31,
-   "mae72": 1.33,
+   "mae72": 1.34,
    "pod": 0.45,
    "far": 0.82,
    "scartoMax": -1.46,
-   "campioni": 1512
+   "campioni": 1506
   },
   "icon_d2": {
    "mae24": 1.2,
@@ -66,7 +66,7 @@
    "pod": 0.2,
    "far": 0.81,
    "scartoMax": -1.02,
-   "campioni": 504
+   "campioni": 502
   },
   "italia_meteo_arpae_icon_2i": {
    "mae24": 1.13,
@@ -75,25 +75,25 @@
    "pod": 0.15,
    "far": 0.824,
    "scartoMax": -1.39,
-   "campioni": 1008
+   "campioni": 1004
   },
   "gfs_seamless": {
-   "mae24": 1.45,
-   "mae48": 1.46,
+   "mae24": 1.46,
+   "mae48": 1.47,
    "mae72": 1.41,
    "pod": 0.5,
    "far": 0.87,
-   "scartoMax": -0.14,
-   "campioni": 1512
+   "scartoMax": -0.13,
+   "campioni": 1506
   },
   "gfs_global": {
-   "mae24": 1.45,
-   "mae48": 1.46,
+   "mae24": 1.46,
+   "mae48": 1.47,
    "mae72": 1.41,
    "pod": 0.5,
    "far": 0.87,
-   "scartoMax": -0.14,
-   "campioni": 1512
+   "scartoMax": -0.13,
+   "campioni": 1506
   },
   "meteofrance_seamless": {
    "mae24": 1.05,
@@ -102,7 +102,7 @@
    "pod": 0.2,
    "far": 0.818,
    "scartoMax": -0.87,
-   "campioni": 1512
+   "campioni": 1506
   },
   "arpege_europe": {
    "mae24": 1.39,
@@ -111,7 +111,7 @@
    "pod": 0.55,
    "far": 0.845,
    "scartoMax": -1.39,
-   "campioni": 1512
+   "campioni": 1506
   },
   "arome_france_hd": {
    "mae24": 1.05,
@@ -120,16 +120,16 @@
    "pod": 0.2,
    "far": 0.818,
    "scartoMax": -0.87,
-   "campioni": 504
+   "campioni": 502
   },
   "ukmo_seamless": {
    "mae24": 2.29,
-   "mae48": 1.66,
-   "mae72": 1.82,
+   "mae48": 1.67,
+   "mae72": 1.83,
    "pod": 0.15,
    "far": 0.85,
-   "scartoMax": -1.78,
-   "campioni": 1512
+   "scartoMax": -1.77,
+   "campioni": 1506
   },
   "jma_seamless": {
    "mae24": 1.24,
@@ -138,52 +138,52 @@
    "pod": 1,
    "far": 0.792,
    "scartoMax": -0.71,
-   "campioni": 1512
+   "campioni": 1506
   },
   "knmi_seamless": {
    "mae24": 1.19,
-   "mae48": 1.41,
+   "mae48": 1.42,
    "mae72": 1.57,
    "pod": 0.25,
    "far": 0.773,
-   "scartoMax": -0.52,
-   "campioni": 1512
+   "scartoMax": -0.51,
+   "campioni": 1506
   },
   "dmi_seamless": {
    "mae24": 1.3,
-   "mae48": 1.41,
+   "mae48": 1.42,
    "mae72": 1.57,
    "pod": 0.25,
    "far": 0.706,
    "scartoMax": -0.67,
-   "campioni": 1512
+   "campioni": 1506
   },
   "metno_seamless": {
-   "mae24": 1.43,
-   "mae48": 1.41,
+   "mae24": 1.44,
+   "mae48": 1.42,
    "mae72": 1.57,
    "pod": 0.3,
    "far": 0.88,
    "scartoMax": -1.03,
-   "campioni": 1512
+   "campioni": 1506
   },
   "gem_seamless": {
    "mae24": 1.15,
    "mae48": 1.27,
-   "mae72": 1.35,
+   "mae72": 1.36,
    "pod": 0.7,
    "far": 0.816,
-   "scartoMax": -0.96,
-   "campioni": 1512
+   "scartoMax": -0.95,
+   "campioni": 1506
   },
   "cma_grapes_global": {
    "mae24": 2.31,
    "mae48": 2.26,
-   "mae72": 2.27,
+   "mae72": 2.28,
    "pod": 0.8,
    "far": 0.778,
    "scartoMax": -0.96,
-   "campioni": 1512
+   "campioni": 1506
   }
  }
 }
