@@ -1,11 +1,11 @@
 {
- "aggiornato": "2026-09-29T08:43:32.189Z",
- "offsetSito": -0.42,
+ "aggiornato": "2026-09-29T11:33:14.279Z",
+ "offsetSito": -0.43,
  "fascia": {
   "fattore": 1.3,
-  "coperturaPrima": 0.582,
-  "coperturaDopo": 0.689,
-  "nProva": 177
+  "coperturaPrima": 0.585,
+  "coperturaDopo": 0.693,
+  "nProva": 176
  },
  "zona": {
   "ore": 111,
@@ -24,13 +24,13 @@
  },
  "modelli": {
   "ecmwf_ifs025": {
-   "mae24": 1.31,
-   "mae48": 1.3,
-   "mae72": 1.44,
+   "mae24": 1.32,
+   "mae48": 1.31,
+   "mae72": 1.45,
    "pod": 0.55,
    "far": 0.859,
-   "scartoMax": -1.12,
-   "campioni": 1512
+   "scartoMax": -1.11,
+   "campioni": 1503
   },
   "ecmwf_aifs025_single": {
    "mae24": 1.46,
@@ -39,7 +39,7 @@
    "pod": 1,
    "far": 0.833,
    "scartoMax": -1.32,
-   "campioni": 1512
+   "campioni": 1503
   },
   "icon_seamless": {
    "mae24": 1.25,
@@ -48,16 +48,16 @@
    "pod": 0.2,
    "far": 0.81,
    "scartoMax": -1.09,
-   "campioni": 1512
+   "campioni": 1503
   },
   "icon_eu": {
-   "mae24": 1.32,
+   "mae24": 1.33,
    "mae48": 1.32,
    "mae72": 1.31,
    "pod": 0.45,
    "far": 0.827,
-   "scartoMax": -1.44,
-   "campioni": 1512
+   "scartoMax": -1.45,
+   "campioni": 1503
   },
   "icon_d2": {
    "mae24": 1.25,
@@ -66,16 +66,16 @@
    "pod": 0.2,
    "far": 0.81,
    "scartoMax": -1.09,
-   "campioni": 504
+   "campioni": 501
   },
   "italia_meteo_arpae_icon_2i": {
    "mae24": 1.13,
-   "mae48": 1.19,
+   "mae48": 1.2,
    "mae72": null,
    "pod": 0.15,
    "far": 0.824,
-   "scartoMax": -1.4,
-   "campioni": 1008
+   "scartoMax": -1.39,
+   "campioni": 1002
   },
   "gfs_seamless": {
    "mae24": 1.52,
@@ -83,8 +83,8 @@
    "mae72": 1.47,
    "pod": 0.5,
    "far": 0.859,
-   "scartoMax": -0.41,
-   "campioni": 1512
+   "scartoMax": -0.42,
+   "campioni": 1503
   },
   "gfs_global": {
    "mae24": 1.52,
@@ -92,89 +92,89 @@
    "mae72": 1.47,
    "pod": 0.5,
    "far": 0.859,
-   "scartoMax": -0.41,
-   "campioni": 1512
+   "scartoMax": -0.42,
+   "campioni": 1503
   },
   "meteofrance_seamless": {
-   "mae24": 0.96,
+   "mae24": 0.97,
    "mae48": 1.3,
-   "mae72": 1.26,
+   "mae72": 1.27,
    "pod": 0.2,
    "far": 0.818,
-   "scartoMax": -0.78,
-   "campioni": 1512
+   "scartoMax": -0.77,
+   "campioni": 1503
   },
   "arpege_europe": {
    "mae24": 1.32,
    "mae48": 1.3,
-   "mae72": 1.26,
+   "mae72": 1.27,
    "pod": 0.55,
    "far": 0.851,
-   "scartoMax": -1.35,
-   "campioni": 1512
+   "scartoMax": -1.36,
+   "campioni": 1503
   },
   "arome_france_hd": {
-   "mae24": 0.96,
+   "mae24": 0.97,
    "mae48": null,
    "mae72": null,
    "pod": 0.2,
    "far": 0.818,
-   "scartoMax": -0.78,
-   "campioni": 504
+   "scartoMax": -0.77,
+   "campioni": 501
   },
   "ukmo_seamless": {
-   "mae24": 2.2,
-   "mae48": 1.66,
-   "mae72": 1.81,
+   "mae24": 2.21,
+   "mae48": 1.67,
+   "mae72": 1.82,
    "pod": 0.15,
    "far": 0.85,
-   "scartoMax": -1.77,
-   "campioni": 1512
+   "scartoMax": -1.78,
+   "campioni": 1503
   },
   "jma_seamless": {
-   "mae24": 1.25,
+   "mae24": 1.24,
    "mae48": 1.32,
-   "mae72": 1.35,
+   "mae72": 1.34,
    "pod": 1,
    "far": 0.792,
-   "scartoMax": -0.75,
-   "campioni": 1512
+   "scartoMax": -0.77,
+   "campioni": 1503
   },
   "knmi_seamless": {
    "mae24": 1.11,
-   "mae48": 1.48,
-   "mae72": 1.63,
+   "mae48": 1.49,
+   "mae72": 1.64,
    "pod": 0.25,
    "far": 0.773,
-   "scartoMax": -0.58,
-   "campioni": 1512
+   "scartoMax": -0.57,
+   "campioni": 1503
   },
   "dmi_seamless": {
    "mae24": 1.23,
-   "mae48": 1.48,
-   "mae72": 1.63,
+   "mae48": 1.49,
+   "mae72": 1.64,
    "pod": 0.25,
    "far": 0.706,
    "scartoMax": -0.68,
-   "campioni": 1512
+   "campioni": 1503
   },
   "metno_seamless": {
-   "mae24": 1.5,
-   "mae48": 1.48,
-   "mae72": 1.63,
+   "mae24": 1.51,
+   "mae48": 1.49,
+   "mae72": 1.64,
    "pod": 0.3,
    "far": 0.875,
    "scartoMax": -1.1,
-   "campioni": 1512
+   "campioni": 1503
   },
   "gem_seamless": {
-   "mae24": 1.16,
+   "mae24": 1.17,
    "mae48": 1.23,
    "mae72": 1.37,
    "pod": 0.7,
    "far": 0.825,
-   "scartoMax": -0.97,
-   "campioni": 1512
+   "scartoMax": -0.96,
+   "campioni": 1503
   },
   "cma_grapes_global": {
    "mae24": 2.27,
@@ -183,7 +183,7 @@
    "pod": 0.8,
    "far": 0.778,
    "scartoMax": -0.98,
-   "campioni": 1512
+   "campioni": 1503
   }
  }
 }
